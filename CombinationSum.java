@@ -1,3 +1,6 @@
+// Time complexity O(2^T) T= target
+// Space complexity O(N x T)
+// Runs on LeetCode YES
 class Solution {
     List<List<Integer>> result;
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
